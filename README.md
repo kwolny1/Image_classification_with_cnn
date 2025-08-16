@@ -8,3 +8,5 @@ The primary objective of this project was to compare the performance of several 
 - ConvNeXt.
 
 All models were initialized with pretrained ImageNet weights and fine-tuned using the TensorFlow framework within the Google Colab environment.
+
+Results are descripted in details in **DeepLearning_Project_1___Rzepinski__Wolny.pdf**. 
